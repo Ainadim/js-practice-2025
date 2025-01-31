@@ -1,0 +1,20 @@
+#container {
+    background-color: yellowgreen;
+    width: 400px;
+    height: 400px;
+    position: relative;
+}
+#box {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+#box1 {
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
